@@ -3,7 +3,6 @@ C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\bin\Debug\netcor
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.runtimeconfig.dev.json
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.dll
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\bin\Debug\netcoreapp2.1\CustomerApi.pdb
-C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.csprojAssemblyReference.cache
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.csproj.CoreCompileInputs.cache
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.RazorAssemblyInfo.cache
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcor
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.RazorTargetAssemblyInfo.cache
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.dll
 C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.pdb
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\CustomerApi\obj\Debug\netcoreapp2.1\CustomerApi.csprojAssemblyReference.cache
