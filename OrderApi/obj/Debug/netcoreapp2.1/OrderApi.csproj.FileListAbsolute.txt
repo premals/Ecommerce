@@ -1,0 +1,14 @@
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.deps.json
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.json
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.dev.json
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.dll
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.pdb
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cs
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfo.cs
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.dll
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.pdb
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csprojAssemblyReference.cache

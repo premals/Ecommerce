@@ -1,0 +1,14 @@
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.deps.json
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.json
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.dev.json
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.dll
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.pdb
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csprojAssemblyReference.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cs
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfoInputs.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfo.cs
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorTargetAssemblyInfo.cache
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.dll
+C:\Users\Premal.shah\source\repos\premals\Ecommerce\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.pdb
