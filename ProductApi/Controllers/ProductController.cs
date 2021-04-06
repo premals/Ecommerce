@@ -27,7 +27,23 @@ namespace ProductApi.Controllers
             {
                 return Ok(response.Products);
             }
+            return NotFound();
+        }
 
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetProductById(int id)
+        {
+            var response = await productProvider.GetProductAsync();
+            if (response.IsSuccess)
+            {
+                var product = response.Products.Where(x => x.Id == id).FirstOrDefault();
+                if (product == null)
+                {
+                    return NotFound();
+                }
+
+                return Ok(product);
+            }
             return NotFound();
         }
     }
